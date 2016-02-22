@@ -1,0 +1,14 @@
+# Tessou
+
+Tessou is a simple script used to remove backdoor in hacked WordPress.
+
+## TODO
+
+- [ ] CLI interface based on Symfony/Console
+- [ ] Restore code removed by Tessou
+
+## LICENSE
+
+MIT © [Aveline Swan](https://github.com/ym)
+
+Wheel-reinventor Return
